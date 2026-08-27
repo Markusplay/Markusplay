@@ -1,7 +1,5 @@
 <h3>📊 Stats</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markusplay&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
----
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
